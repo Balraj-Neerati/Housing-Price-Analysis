@@ -78,7 +78,7 @@ The model's performance is evaluated using the following metrics:
 
 **Results**
 
-The model was able to predict the house prices with an R² score of X.XX (replace with your score) on the test data.
+The model was able to predict the house prices with an R² score of 0.66 on the test data.
 
 
 
